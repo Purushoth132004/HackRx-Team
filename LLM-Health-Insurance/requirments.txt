@@ -1,6 +1,13 @@
-openai
-langchain
-faiss-cpu
-pdfplumber
 python-dotenv
+openai
+faiss-cpu
+numpy
+sentence-transformers
+pymupdf
+streamlit
 tqdm
+transformers
+torch
+tf-keras
+pdfminer.six
+pandas
